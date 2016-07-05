@@ -3,8 +3,8 @@ Detecting GPU Installation
 
 From NVIDIA <a href="">DevBlog</a>. Run
 
-		nvcc -o test_cuda test_cuda.cu 
-		./test_cuda
+		nvcc -o detect_gpu detect_gpu.cu 
+		./detect_gpu
 
 It should print out something similar to
 
