@@ -1,7 +1,7 @@
 # GPUTest
 Detecting GPU Installation
 
-From NVIDIA <a href="">DevBlog</a>. Run
+From NVIDIA <a href="https://devblogs.nvidia.com/parallelforall/how-query-device-properties-and-handle-errors-cuda-cc/">DevBlog</a>. Run
 
 		nvcc -o detect_gpu detect_gpu.cu 
 		./detect_gpu
